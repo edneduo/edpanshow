@@ -1,2 +1,0 @@
-# edpanshow
-flyer
